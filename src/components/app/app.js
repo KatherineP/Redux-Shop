@@ -8,10 +8,11 @@ const App = () => {
   return (
     <main role="main" className="container">
       < ShopHeader/>
-      <Switch>
+      {/* <Switch>
         <Route path="/" component={HomePage} exact/>
         <Route path="/cart" component={CartPage}/>
-      </Switch>
+      </Switch> */}
+      <HomePage />
     </main>
   )
 }

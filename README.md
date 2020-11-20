@@ -1,1 +1,1 @@
-Link to the [app](https://katherinep.github.io/ReduxStore/build/)
+Link to the [app](https://katherinep.github.io/ReduxStore/)

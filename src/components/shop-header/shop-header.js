@@ -6,15 +6,15 @@ import { connect } from 'react-redux';
 const ShopHeader = ({ orderTotal }) => {
   return (
     <header className="header d-flex">
-      <Link to="/"> 
+      {/* <Link to="/">  */}
         <div className="header-title">ReStore</div>
-      </Link>
-      <Link to="/cart"> 
+      {/* </Link>
+      <Link to="/cart">  */}
       <div className="shopping-cart">
         <i className="cart-icon fa fa-shopping-cart" />
         ${orderTotal}
       </div>
-      </Link>
+      {/* </Link> */}
     </header>
   )
 }

@@ -1,0 +1,31 @@
+.fa-shopping-cart {
+  color: #17a2b8;
+  font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands', 'FontAwesome';
+  font-weight: 900;
+}
+
+a:hover { text-decoration: none; }
+
+.header-title {
+  font-size: 2rem;
+  font-family: "Playfair Display", Georgia, serif;
+  text-decoration: none;
+}
+
+.shopping-cart {
+  align-self: center;
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+.header {
+  justify-content: space-between;
+  margin: 10px 10px;
+  border-bottom: 1px solid #17a2b8;
+}
+
+.cart-icon {
+  font-size: 2rem;
+  color: #17a2b8;
+  margin-right: 10px;
+}

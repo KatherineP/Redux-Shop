@@ -1,0 +1,21 @@
+.table-title {
+  font-size: 1.5rem;
+}
+
+.remove, .add, .trash {
+  font-family: 'FontAwesome';
+}
+
+.btn {
+  margin-right: 5px;
+}
+
+.total {
+  text-align: right;
+  font-size: 1.3rem;
+  margin-right: 10px;
+}
+
+.table-container {
+  margin: 20px 0;
+}
